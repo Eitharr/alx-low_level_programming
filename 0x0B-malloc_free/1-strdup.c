@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 /**
-* _strdup-blablabla 
+*_strdup-blablabla 
 * @str: char
 * Return: 0
 */
