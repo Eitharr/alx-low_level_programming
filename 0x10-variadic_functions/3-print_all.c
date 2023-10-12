@@ -34,6 +34,7 @@ break;
 default:
 i++;
 continue;
+}
 sep = ", ";
 i++;
 }
